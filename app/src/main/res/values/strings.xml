@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">TIC-TAC-TOE</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name ="game_over">GAME OVER</string>
+    <string name="winner">Winner: </string>
+    <string name="player_1">Player 1</string>
+    <string name="new_game">NEW GAME</string>
+    <string name="leaderboard">LEADERBOARD</string>
+    <string name="_3_2">3-2</string>
+    <string name="most_wins">MOST WINS</string>
+    <string name="back">NEW GAME</string>
+    <string name="textview">TextView</string>
+    <string name="start">START</string>
+    <string name="todo">TODO</string>
+    <string name="enter">ENTER</string>
+    <string name="player_1_name">Player 1: name</string>
+    <string name="player_2_name">Player 2: name</string>
+    <string name="player_1_vs_player_2">Player 1 vs Player 2</string>
+</resources>
